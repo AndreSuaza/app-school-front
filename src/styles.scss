@@ -64,3 +64,12 @@ body{
     color: $primary;
     border-color: $primary;
 }
+
+
+.border-card {
+
+    padding: 1rem;
+    border: 1px solid $gray-200;
+    border-radius: 0.25rem;
+
+}
